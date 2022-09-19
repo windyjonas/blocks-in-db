@@ -107,6 +107,7 @@ class Bu_Blocks_In_Db_Table extends WP_List_Table {
 		 */
 		$ptype     = ( isset( $_REQUEST['ptype'] ) && ! empty( $_REQUEST['ptype'] ) ? sanitize_text_field( wp_unslash( $_REQUEST['ptype'] ) ) : 'all' );
 		$blockname = ( isset( $_REQUEST['blockname'] ) ? sanitize_text_field( wp_unslash( $_REQUEST['blockname'] ) ) : '' );
+		$blockname = preg_replace( '/core\//', '', $blockname );
 
 		$prepare_vars = [];
 
