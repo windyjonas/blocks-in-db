@@ -1,0 +1,30 @@
+{
+	"name": "burningumbrellas/blocks-in-db",
+	"type": "wordpress-plugin",
+	"license": "GPL-2.0-only",
+	"description": "List Blocks used in database",
+	"homepage": "https://github.com/windyjonas/blocks-in-db",
+	"authors": [
+		{
+			"name": "Jonas Nordström",
+			"email": "jonas.nordstrom@gmail.com",
+			"homepage": "https://github.com/windyjonas"
+		}
+	],
+	"keywords": [
+		"wordpress",
+		"blocks"
+	],
+	"support": {
+		"issues": "https://github.com/windyjonas/blocks-in-db/issues"
+	},
+	"config": {
+		"platform": {
+			"php": "7.4"
+		},
+		"optimize-autoloader": true
+	},
+	"require": {
+		"php": ">=7.4"
+	}
+}
