@@ -2,10 +2,10 @@
 # This file is distributed under the same license as the Blocks in Database package.
 msgid ""
 msgstr ""
-"Project-Id-Version: Blocks in Database 0.1.0\n"
+"Project-Id-Version: Blocks in Database 1.0.0\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/blocks-in-db\n"
-"POT-Creation-Date: 2022-09-19 11:15:15+00:00\n"
-"PO-Revision-Date: 2022-09-19 13:18+0200\n"
+"POT-Creation-Date: 2022-09-20 11:40:00+00:00\n"
+"PO-Revision-Date: 2022-09-20 13:42+0200\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: sv_SE\n"
@@ -20,50 +20,46 @@ msgstr ""
 "X-Textdomain-Support: yes\n"
 "X-Poedit-SearchPath-0: .\n"
 
-#: classes/class-bu-blocks-in-db-table.php:39
+#: classes/class-bu-blocks-in-db-table.php:32
 msgid "ID"
 msgstr "ID"
 
-#: classes/class-bu-blocks-in-db-table.php:40
+#: classes/class-bu-blocks-in-db-table.php:33
 msgid "Title"
 msgstr "Titel"
 
-#: classes/class-bu-blocks-in-db-table.php:41
+#: classes/class-bu-blocks-in-db-table.php:34
 msgid "User"
 msgstr "Användare"
 
-#: classes/class-bu-blocks-in-db-table.php:42
+#: classes/class-bu-blocks-in-db-table.php:35
 msgid "Post date"
 msgstr "Postdatum"
 
-#: classes/class-bu-blocks-in-db-table.php:276
-msgid "Block"
-msgstr "Block"
-
-#: classes/class-bu-blocks-in-db-table.php:277
-#: classes/class-bu-blocks-in-db-table.php:279
+#: classes/class-bu-blocks-in-db-table.php:273
+#: classes/class-bu-blocks-in-db-table.php:275
 msgid "Post type&hellip;"
 msgstr "Posttyp&hellip;"
 
-#: classes/class-bu-blocks-in-db-table.php:287
-msgid "Filter"
+#: classes/class-bu-blocks-in-db-table.php:283
+msgid "Search"
 msgstr "Sök"
 
 #. Plugin Name of the plugin/theme
 msgid "Blocks in Database"
 msgstr "Block i databasen"
 
-#: classes/class-bu-blocks-in-db.php:75
+#: classes/class-bu-blocks-in-db.php:73
 msgid "#Blocks"
 msgstr "#Block"
 
-#: classes/class-bu-blocks-in-db.php:99
+#: classes/class-bu-blocks-in-db.php:97
 msgid "No blocks"
 msgstr "Inga block"
 
-#. Author URI of the plugin/theme
-msgid "https://jonasnordstrom.se"
-msgstr "https://jonasnordstrom.se"
+#. Plugin URI of the plugin/theme
+msgid "https://github.com/windyjonas/blocks-in-db"
+msgstr "https://github.com/windyjonas/blocks-in-db"
 
 #. Description of the plugin/theme
 msgid "List blocks in database"
@@ -72,3 +68,7 @@ msgstr "Lista block i databasen"
 #. Author of the plugin/theme
 msgid "windyjonas"
 msgstr "windyjonas"
+
+#. Author URI of the plugin/theme
+msgid "https://github.com/windyjonas"
+msgstr "https://github.com/windyjonas"

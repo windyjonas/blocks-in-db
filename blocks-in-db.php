@@ -1,10 +1,10 @@
 <?php
 /**
  * Plugin Name:     Blocks in Database
- * Plugin URI:      https://jonasnordstrom.se
+ * Plugin URI:      https://github.com/windyjonas/blocks-in-db
  * Description:     List blocks in database
  * Author:          windyjonas
- * Author URI:      https://jonasnordstrom.se
+ * Author URI:      https://github.com/windyjonas
  * Text Domain:     blocks-in-db
  * Domain Path:     /languages
  * Version:         1.0.0
